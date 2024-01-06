@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400" />
 
-- 🔭 I’m currently working on **B2B**
+- 🔭 I’m currently working on **E-commerce**
 
 - 🌱 I’m currently learning **Node.js**
 
